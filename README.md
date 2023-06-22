@@ -43,10 +43,10 @@ Here is an example image from the `images` folder:
 ![Official Documentation](https://github.com/dpvasani/MongoDB-Tutorial/assets/109815626/c91d7a61-f61e-4b4a-a38d-7a5c58f89530)
 
 
-
 And here is a second image from the `images` folder:
 ## Know Our Team
-![Know Our Team](https://github.com/dpvasani/MongoDB-Tutorial/assets/109815626/4091d55a-66ad-4871-9cb0-b097fc59a077)
+
+![Know Our Team](https://github.com/dkrupali56/MongoDB-Tutorial/assets/102245210/e60ca54b-0266-408a-9740-f2288ade5257)
 
 
 Feel free to explore the `images` folder for more visual aids.
